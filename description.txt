@@ -1,0 +1,26 @@
+[c/FFE900:~ Void Items ~]
+[c/C4C4C4:Version 0.9]
+
+[c/FFE900:----------]
+
+[c/66EEFF:   +Adds OP items to the game.]
+[c/66EEFF:   +Adds a void guide npc.]
+[c/C4C4C4:      - He can teach you how to craft the items.]
+[c/C4C4C4:      - And you can aslo purchase from him.]
+
+[c/FFE900:----------]
+
+[c/FFE900:~ NPC Spawn Conditions ~]
+[c/C4C4C4:   +Avalible home to live in.]
+[c/C4C4C4:   +Wall of Flesh was slain.]
+[c/C4C4C4:   +Soul of Night or Fright is in your inventory.]
+
+[c/FFE900:----------]
+
+[c/C4C4C4:There will most likely not be anymore updates.]
+[c/C4C4C4:But if I have the time I'll update the mod.]
+
+[c/FFE900:- Also -]
+
+[c/FF0000:This mod was mostly made for fun.]
+[c/FF0000:There might be bugs.]
