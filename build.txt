@@ -1,4 +1,4 @@
 displayName = Void Items
 author = Flow
-version = 0.9
+version = 0.9.1
 homepage = https://discord.gg/zZvur8aMJ3
